@@ -1,6 +1,6 @@
 # "Image Correction and Formation for positioning of ultrafast beam steering elements for volumetric multiphoton imaging reconstruction in mammalian brain”
 
-Eran Grabiner and Hagai Rossman
+Eran Grabiner and Hagai Rossman, August 2016
 
 Under Dr. Pablo Blinder, Department of Neurobiology, Tel-Aviv University, [Blinder Lab](http://pblab.tau.ac.il/en/)
 
