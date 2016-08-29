@@ -8,7 +8,10 @@ And advisory of Lior Golgher & Hagai Hargil
 
 
 ## Image Correction GUI
-Deals with Pixel-Shift and Non-Linear 
+
+Deals with Pixel-Shift and Non-Linear corrections
+
+Also alows LineSwitching Correction for stacked images
 
 Open ImageCorrection\GUI_ImageCorrection.m
 
@@ -17,12 +20,10 @@ Works on Matlab 2014, some functions need Image Processing ToolBox
 ![](Documentation/ImageCorrectionScreen.png)
 
 
-## Scanning Mirror ran-Hagai-Project/Function Creation GUI
+## Scanning Mirror function Extractor 
+
 Developer tool for caclulating and saving new Non-Linear Correction Vectors if new equipment is used in the lab
 
 Open ScanningMirrorFunctionTool\GUI_RunMe.m
 
 ![](Documentation/ScannerScreen.png)
-
-
-
