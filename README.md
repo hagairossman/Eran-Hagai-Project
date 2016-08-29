@@ -13,6 +13,7 @@ Deals with Pixel-Shift and Non-Linear
 Open ImageCorrection\GUI_ImageCorrection.m
 
 Works on Matlab 2014, some functions need Image Processing ToolBox
+
 ![](Documentation/ImageCorrectionScreen.png)
 
 
@@ -20,6 +21,8 @@ Works on Matlab 2014, some functions need Image Processing ToolBox
 Developer tool for caclulating and saving new Non-Linear Correction Vectors if new equipment is used in the lab
 
 Open ScanningMirrorFunctionTool\GUI_RunMe.m
+
+![](Documentation/ScannerScreen.png)
 
 
 
