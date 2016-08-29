@@ -8,8 +8,10 @@ And advisory of Lior Golgher & Hagai Hargil
 
 
 ## Image Correction GUI
-Deals with Pixel-Shift and Non-Linear Correction
+Deals with Pixel-Shift and Non-Linear 
+
 Open ImageCorrection\GUI_ImageCorrection.m
+
 Works on Matlab 2014, some functions need Image Processing ToolBox
 
 
